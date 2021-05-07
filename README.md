@@ -1,2 +1,2 @@
 # diploma
-Double GCN co-autorship and citation prediction. 
+Double GraphSAGE co-autorship and citation prediction. 
